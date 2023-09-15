@@ -1,0 +1,62 @@
+*{
+    background-color: blueviolet;
+}
+.luffy{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+  position: absolute;
+  text-align: center;
+}
+h1,h2{
+  margin: 0%;
+  background-color: white;
+  font-family:'Noto Sans JP', sans-serif;
+}
+img{
+    margin-top: 30px;
+    margin-bottom: -5px;
+}
+h1{
+    color: orangered;
+    font-weight:bold;
+    font-size: 3rem;
+}
+.kanto{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+  position: absolute;
+  left: 900px;
+  text-align: center;
+}
+.asta{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+  position: absolute;
+  top:500px;
+  text-align: center;
+}
+.stone{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+  position: absolute;
+  top:500px;
+  left:900px;
+  text-align: center;
+}
+.two{
+    margin-top: -20px;
+    margin-bottom: -15px;
+    height: 300px;
+    width: 300px;
+    position:absolute ;
+    top:380px;
+    left:550px;
+    border-radius:50%;
+}
+
+   
+
